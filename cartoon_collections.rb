@@ -14,3 +14,4 @@ def list_dwarves(array)
   array.each |dwarve|
   puts dwarve
 end
+end
